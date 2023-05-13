@@ -2,7 +2,7 @@
 
 ## ÍNDICE
 * [1.Intro](https://github.com/Elizabeth-Ortiz-A/ClonDeGoogle/blob/main/README.md#1-intro)
-* [2.Qué CONSTRUÍ](#)
+* [2.Qué CONSTRUÍ](https://github.com/Elizabeth-Ortiz-A/ClonDeGoogle/blob/main/README.md#2-qu%C3%A9-constru%C3%AD)
 * [3.Objetivo del proyecto](#)
 
 ****
