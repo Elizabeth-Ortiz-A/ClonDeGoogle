@@ -1,4 +1,4 @@
-# Clonación de Interfaz de Google 👩‍💻
+# Clonación de Interfaz de Google 👩‍💻💻⌨
 
 ## ÍNDICE
 * [🌟 1. Intro](https://github.com/Elizabeth-Ortiz-A/ClonDeGoogle/blob/main/README.md#1-intro)
